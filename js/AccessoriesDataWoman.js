@@ -1,28 +1,28 @@
-const casquette = "../assets/Woman/accessories/casquette.png";
-const casquette1 = "../assets/Woman/accessories/casquette1.png";
-const casquette2 = "../assets/Woman/accessories/casquette2.png";
-const casquette3 = "../assets/Woman/accessories/casquette3.png";
-const casquette4 = "../assets/Woman/accessories/casquette4.png";
-const casquette5 = "../assets/Woman/accessories/casquette5.png";
+const casquette = "./assets/Woman/accessories/casquette.png";
+const casquette1 = "./assets/Woman/accessories/casquette1.png";
+const casquette2 = "./assets/Woman/accessories/casquette2.png";
+const casquette3 = "./assets/Woman/accessories/casquette3.png";
+const casquette4 = "./assets/Woman/accessories/casquette4.png";
+const casquette5 = "./assets/Woman/accessories/casquette5.png";
 
-const chapeau = "../assets/Woman/accessories/chapeau.png";
-const chapeau1 = "../assets/Woman/accessories/chapeau1.png";
-const chapeau2 = "../assets/Woman/accessories/chapeau2.png";
-const chapeau3 = "../assets/Woman/accessories/chapeau3.png";
-const chapeau4 = "../assets/Woman/accessories/chapeau4.png";
-const chapeau5 = "../assets/Woman/accessories/chapeau5.png";
-const chapeau6 = "../assets/Woman/accessories/chapeau6.png";
-const chapeau7 = "../assets/Woman/accessories/chapeau7.png";
-const chapeau8 = "../assets/Woman/accessories/chapeau8.png";
-const chapeau9 = "../assets/Woman/accessories/chapeau9.png";
-const chapeau10 = "../assets/Woman/accessories/chapeau10.png";
+const chapeau = "./assets/Woman/accessories/chapeau.png";
+const chapeau1 = "./assets/Woman/accessories/chapeau1.png";
+const chapeau2 = "./assets/Woman/accessories/chapeau2.png";
+const chapeau3 = "./assets/Woman/accessories/chapeau3.png";
+const chapeau4 = "./assets/Woman/accessories/chapeau4.png";
+const chapeau5 = "./assets/Woman/accessories/chapeau5.png";
+const chapeau6 = "./assets/Woman/accessories/chapeau6.png";
+const chapeau7 = "./assets/Woman/accessories/chapeau7.png";
+const chapeau8 = "./assets/Woman/accessories/chapeau8.png";
+const chapeau9 = "./assets/Woman/accessories/chapeau9.png";
+const chapeau10 = "./assets/Woman/accessories/chapeau10.png";
 
-const echarpe = "../assets/Woman/accessories/echarpe.png";
-const echarpe1 = "../assets/Woman/accessories/echarpe1.png";
-const echarpe2 = "../assets/Woman/accessories/echarpe2.png";
-const echarpe3 = "../assets/Woman/accessories/echarpe3.png";
-const echarpe4 = "../assets/Woman/accessories/echarpe4.png";
-const echarpe5 = "../assets/Woman/accessories/echarpe5.png";
+const echarpe = "./assets/Woman/accessories/echarpe.png";
+const echarpe1 = "./assets/Woman/accessories/echarpe1.png";
+const echarpe2 = "./assets/Woman/accessories/echarpe2.png";
+const echarpe3 = "./assets/Woman/accessories/echarpe3.png";
+const echarpe4 = "./assets/Woman/accessories/echarpe4.png";
+const echarpe5 = "./assets/Woman/accessories/echarpe5.png";
 
 export const AccessoriesDataWoman = [
     {

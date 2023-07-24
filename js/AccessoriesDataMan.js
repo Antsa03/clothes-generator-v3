@@ -1,27 +1,27 @@
-const casquette = '../assets/Man/accessories/casquette.png';
-const casquette1 = '../assets/Man/accessories/casquette1.png';
-const casquette2 = '../assets/Man/accessories/casquette2.png';
-const casquette3 = '../assets/Man/accessories/casquette3.png';
-const casquette4 = '../assets/Man/accessories/casquette4.png';
-const casquette5 = '../assets/Man/accessories/casquette5.png';
+const casquette = './assets/Man/accessories/casquette.png';
+const casquette1 = './assets/Man/accessories/casquette1.png';
+const casquette2 = './assets/Man/accessories/casquette2.png';
+const casquette3 = './assets/Man/accessories/casquette3.png';
+const casquette4 = './assets/Man/accessories/casquette4.png';
+const casquette5 = './assets/Man/accessories/casquette5.png';
 
-const chapeau = '../assets/Man/accessories/chapeau.png';
-const chapeau1 = '../assets/Man/accessories/chapeau1.png';
-const chapeau2 = '../assets/Man/accessories/chapeau2.png';
-const chapeau3 = '../assets/Man/accessories/chapeau3.png';
-const chapeau4 = '../assets/Man/accessories/chapeau4.png';
-const chapeau5 = '../assets/Man/accessories/chapeau5.png';
-const chapeau6 = '../assets/Man/accessories/chapeau6.png';
-const chapeau7 = '../assets/Man/accessories/chapeau7.png';
-const chapeau8 = '../assets/Man/accessories/chapeau8.png';
-const chapeau9 = '../assets/Man/accessories/chapeau9.png';
-const chapeau10 = '../assets/Man/accessories/chapeau10.png';
+const chapeau = './assets/Man/accessories/chapeau.png';
+const chapeau1 = './assets/Man/accessories/chapeau1.png';
+const chapeau2 = './assets/Man/accessories/chapeau2.png';
+const chapeau3 = './assets/Man/accessories/chapeau3.png';
+const chapeau4 = './assets/Man/accessories/chapeau4.png';
+const chapeau5 = './assets/Man/accessories/chapeau5.png';
+const chapeau6 = './assets/Man/accessories/chapeau6.png';
+const chapeau7 = './assets/Man/accessories/chapeau7.png';
+const chapeau8 = './assets/Man/accessories/chapeau8.png';
+const chapeau9 = './assets/Man/accessories/chapeau9.png';
+const chapeau10 = './assets/Man/accessories/chapeau10.png';
 
-const echarpe = '../assets/Man/accessories/echarpe.png';
-const echarpe1 = '../assets/Man/accessories/echarpe1.png';
-const echarpe2 = '../assets/Man/accessories/echarpe2.png';
-const echarpe3 = '../assets/Man/accessories/echarpe3.png';
-const echarpe4 = '../assets/Man/accessories/echarpe4.png';
+const echarpe = './assets/Man/accessories/echarpe.png';
+const echarpe1 = './assets/Man/accessories/echarpe1.png';
+const echarpe2 = './assets/Man/accessories/echarpe2.png';
+const echarpe3 = './assets/Man/accessories/echarpe3.png';
+const echarpe4 = './assets/Man/accessories/echarpe4.png';
 
 export const AccessoriesDataMan = [
     {

@@ -1,25 +1,25 @@
-const pull = "../assets/Woman/pulls/Pull.png";
-const pull1 = "../assets/Woman/pulls/Pull1.png";
-const pull2 = "../assets/Woman/pulls/Pull2.png";
-const pull3 = "../assets/Woman/pulls/Pull3.png";
-const pull4 = "../assets/Woman/pulls/Pull4.png";
-const pull5 = "../assets/Woman/pulls/Pull5.png";
-const pull6= "../assets/Woman/pulls/Pull6.png";
-const pull7 = "../assets/Woman/pulls/Pull7.png";
-const pull8 = "../assets/Woman/pulls/Pull8.png";
-const pull9 = "../assets/Woman/pulls/Pull9.png";
-const pull10 = "../assets/Woman/pulls/Pull10.png";
-const pull11 = "../assets/Woman/pulls/Pull11.png";
-const pull12 = "../assets/Woman/pulls/Pull12.png";
-const pull13 = "../assets/Woman/pulls/Pull13.png";
-const pull14 = "../assets/Woman/pulls/Pull14.png";
-const pull15 = "../assets/Woman/pulls/Pull15.png";
+const pull = "./assets/Woman/pulls/Pull.png";
+const pull1 = "./assets/Woman/pulls/Pull1.png";
+const pull2 = "./assets/Woman/pulls/Pull2.png";
+const pull3 = "./assets/Woman/pulls/Pull3.png";
+const pull4 = "./assets/Woman/pulls/Pull4.png";
+const pull5 = "./assets/Woman/pulls/Pull5.png";
+const pull6= "./assets/Woman/pulls/Pull6.png";
+const pull7 = "./assets/Woman/pulls/Pull7.png";
+const pull8 = "./assets/Woman/pulls/Pull8.png";
+const pull9 = "./assets/Woman/pulls/Pull9.png";
+const pull10 = "./assets/Woman/pulls/Pull10.png";
+const pull11 = "./assets/Woman/pulls/Pull11.png";
+const pull12 = "./assets/Woman/pulls/Pull12.png";
+const pull13 = "./assets/Woman/pulls/Pull13.png";
+const pull14 = "./assets/Woman/pulls/Pull14.png";
+const pull15 = "./assets/Woman/pulls/Pull15.png";
 
-const veste = "../assets/Woman/pulls/veste.png";
-const veste1 = "../assets/Woman/pulls/veste1.png";
-const veste2 = "../assets/Woman/pulls/veste2.png";
-const veste3 = "../assets/Woman/pulls/veste3.png";
-const veste4 = "../assets/Woman/pulls/veste4.png";
+const veste = "./assets/Woman/pulls/veste.png";
+const veste1 = "./assets/Woman/pulls/veste1.png";
+const veste2 = "./assets/Woman/pulls/veste2.png";
+const veste3 = "./assets/Woman/pulls/veste3.png";
+const veste4 = "./assets/Woman/pulls/veste4.png";
 
 export const PullsDataWoman = [
     {
