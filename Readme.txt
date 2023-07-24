@@ -1,0 +1,2 @@
+Pour lancer ce projet, il faut le lancer avec live server ou l'heberger localement ou sur internet.
+Ce projet demande une connexion internet si vous voulez générer des vêtements en fonction du météo de votre ville.

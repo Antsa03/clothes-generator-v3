@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>WCC clothes generator</title>
+</head>
+<body>
+    <label for="gender">Your gender</label>
+    <select name="gender" id="gender-info">
+        <option value="Man">Man</option>
+        <option value="Women">Woman</option>
+    </select>
+
+    <label for="cityInput">Enter City:</label>
+    <input type="text" id="cityInput" placeholder="city name">
+    <button id="btn-weather">Get Weather</button>
+
+
+    <label for="weather">What is the weather?</label>
+    <select name="weather" id="weather-info">
+        <option value="Hot">Sunny</option>
+        <option value="Cold">Cloudy</option>
+    </select>
+
+    <div id="weatherData">
+        <!-- Weather data will be displayed here -->
+    </div>
+
+    <div class="clothes-container">
+        <div id="accessory-container">
+            <img id="accessory-image" src="" alt="accessories" width="" height="" />
+        </div>
+        <div id="tshirt-container">
+            <img id="tshirt-image" src="" alt="T-shirt" width="" height="" />
+        </div>
+        <div id="pants-container">
+            <img id="pants-image" src="" alt="Pants" width="" height="" />
+        </div>
+        <div id="shoes-container">
+            <img id="shoes-image" src="" alt="shoes" width="" height="" />
+        </div>
+    </div>
+
+    <div class="clothes-container">
+        <div id="accessory-container">
+            <img id="accessory-image1" src="" alt="accessories" width="" height="" />
+        </div>
+        <div id="tshirt-container">
+            <img id="tshirt-image1" src="" alt="T-shirt" width="" height="" />
+        </div>
+        <div id="pants-container">
+            <img id="pants-image1" src="" alt="Pants" width="" height="" />
+        </div>
+        <div id="shoes-container">
+            <img id="shoes-image1" src="" alt="shoes" width="" height="" />
+        </div>
+    </div>
+
+    <div class="clothes-container">
+        <div id="accessory-container">
+            <img id="accessory-image2" src="" alt="accessories" width="" height="" />
+        </div>
+        <div id="tshirt-container">
+            <img id="tshirt-image2" src="" alt="T-shirt" width="" height="" />
+        </div>
+        <div id="pants-container">
+            <img id="pants-image2" src="" alt="Pants" width="" height="" />
+        </div>
+        <div id="shoes-container">
+            <img id="shoes-image2" src="" alt="shoes" width="" height="" />
+        </div>
+    </div>
+
+    <button id="random-tshirt-button">Change clothes randomly</button>
+
+    <script type="module" src="./main.js"></script>
+</body>
+</html>
